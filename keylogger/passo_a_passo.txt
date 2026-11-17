@@ -1,0 +1,2 @@
+ver serial no linux: ls /dev/ttyACM*
+Abrir serial no putty /dev/ttyACM0
